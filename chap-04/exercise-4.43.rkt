@@ -1,0 +1,105 @@
+#lang racket
+
+(require (only-in "../toolBox/LogicProgramming/logicPuzzle.rkt"
+                  apply-constrains
+                  all-combination))
+
+(define nil `())
+
+(define (yacht)
+  (let ((Moore   0)
+        (Downing 1)
+        (Hall    2)
+        (Hood    3)
+        (Parker  4)
+        
+        (Lorna     0)
+        (Melissa   1)
+        (Rosalind  2)
+        (Gabrielle 3)
+        (Mary      4))
+    
+    (define (get-father-index daughter-list daughter-index)
+      (if (= (car daughter-list)
+             daughter-index)
+          0
+          (+ (get-father-index (cdr daughter-list)
+                               daughter-index)
+             1)))
+    
+    (define (ship-index father-index)
+      (cond ((= father-index Moore)
+             Lorna)
+            ((= father-index Downing)
+             Melissa)
+            ((= father-index Hall)
+             Rosalind)
+            ((= father-index Hood)
+             Gabrielle)
+            ((= father-index Parker)
+             Mary)))
+
+    (define (daughter-index daughter-list father-index)
+      (list-ref daughter-list father-index))
+    
+    (define zero-to-four (list 0 1 2 3 4))
+    
+    (define constrain-list
+      (list (lambda (daughter-list)
+              (not (eq? (daughter-index daughter-list Hood)
+                      Gabrielle)))
+            (lambda (daughter-list)
+              (not (= (daughter-index daughter-list Moore)
+                      Lorna)))
+            (lambda (daughter-list)
+              (not (= (daughter-index daughter-list Hall)
+                      Rosalind)))
+            (lambda (daughter-list)
+              (= (daughter-index daughter-list Hood)
+                 Melissa))
+            (lambda (daughter-list)
+              (not (= (daughter-index daughter-list Parker)
+                      Gabrielle)))
+            #|
+            (lambda (daughter-list)
+              (= (daughter-index daughter-list Moore)
+                 Mary))
+            |#
+            (lambda (daughter-list)
+              (= (ship-index (get-father-index daughter-list Gabrielle))
+                 (daughter-index daughter-list Parker)))))
+    
+    (define (daughter-name daughter-index)
+      (cond ((= daughter-index Lorna)
+             "Lorna")
+            ((= daughter-index Melissa)
+             "Melissa")
+            ((= daughter-index Rosalind)
+             "Rosalind")
+            ((= daughter-index Gabrielle)
+             "Gabrielle")
+            ((= daughter-index Mary)
+             "Mary")))
+    
+    (map (lambda (x)
+           (display "Moore   - ")
+           (display (daughter-name (daughter-index x Moore)))
+           (newline)
+           (display "Downing - ")
+           (display (daughter-name (daughter-index x Downing)))
+           (newline)
+           (display "Hall    - ")
+           (display (daughter-name (daughter-index x Hall)))
+           (newline)
+           (display "Hood    - ")
+           (display (daughter-name (daughter-index x Hood)))
+           (newline)
+           (display "Parker  - ")
+           (display (daughter-name (daughter-index x Parker)))
+           (newline)
+           (newline))
+         
+         (apply-constrains (all-combination zero-to-four)
+                           constrain-list))))
+
+(yacht)
