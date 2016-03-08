@@ -1,10 +1,14 @@
 #SICP-solution-in-Racket
 
+[Structure and Interpretation of Computer Programs  - 2nd Edition](http://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871/ref=sr_1_1?ie=UTF8&qid=1457442438&sr=8-1&keywords=sicp)
+
 *This repo is built to remind me that the book is unfinished and I would go back one day for the rest of it.*
 
 ---
 
-**Chapter 1**1.1 1.2 [1.3](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-01/exercise-1-03.rkt) 1.4 1.5 [1.6](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-01/exercise-1-06.rkt) [1.7](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-01/exercise-1-07.rkt) [1.8](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-01/exercise-1-08.rkt) 1.9 
+**Chapter 1**
+
+1.1 1.2 [1.3](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-01/exercise-1-03.rkt) 1.4 1.5 [1.6](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-01/exercise-1-06.rkt) [1.7](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-01/exercise-1-07.rkt) [1.8](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-01/exercise-1-08.rkt) 1.9 
 
 1.10 1.11 1.12 1.13 1.14 1.15 1.16 1.17 1.18 [1.19](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-01/exercise-1-19.rkt)
 
@@ -12,8 +16,13 @@
 
 [1.30](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-01/exercise-1-30.rkt) [1.31](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-01/exercise-1-31.rkt) [1.32](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-01/exercise-1-32.rkt) [1.33](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-01/exercise-1-33.rkt) 1.34 [1.35](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-01/exercise-1-35.rkt) [1.36](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-01/exercise-1-36.rkt) [1.37](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-01/exercise-1-37.rkt) [1.38](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-01/exercise-1-38.rkt) [1.39](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-01/exercise-1-39.rkt)
 
-1.40 [1.41](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-01/exercise-1-41.rkt) [1.42](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-01/exercise-1-42.rkt) [1.43](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-01/exercise-1-43.rkt) [1.44](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-01/exercise-1-44.rkt) 1.45 [1.46](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-01/exercise-1-46.rkt)---
-**Chapter 2**[2.1](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-02/exercise-2-01.rkt) 2.2 2.3 2.4 2.5 2.6 2.7 2.8 2.9
+1.40 [1.41](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-01/exercise-1-41.rkt) [1.42](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-01/exercise-1-42.rkt) [1.43](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-01/exercise-1-43.rkt) [1.44](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-01/exercise-1-44.rkt) 1.45 [1.46](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-01/exercise-1-46.rkt)
+
+---
+
+**Chapter 2**
+
+[2.1](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-02/exercise-2-01.rkt) 2.2 2.3 2.4 2.5 2.6 2.7 2.8 2.9
 
 2.10 2.11 2.12 2.13 2.14 2.15 2.16 [2.17](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-02/exercise-2-17.rkt) [2.18](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-02/exercise-2-18.rkt) [2.19](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-02/exercise-2-19.rkt)
 
@@ -35,7 +44,9 @@
 
 ---
 
-**Chapter 3**[3.1](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-03/exercise-3-01.rkt) [3.2](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-03/exercise-3-02.rkt) [3.3](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-03/exercise-3-03.rkt) [3.4](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-03/exercise-3-04.rkt) [3.5](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-03/exercise-3-05.rkt) [3.6](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-03/exercise-3-06.rkt) [3.7](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-03/exercise-3-07.rkt) [3.8](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-03/exercise-3-08.rkt) 3.9
+**Chapter 3**
+
+[3.1](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-03/exercise-3-01.rkt) [3.2](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-03/exercise-3-02.rkt) [3.3](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-03/exercise-3-03.rkt) [3.4](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-03/exercise-3-04.rkt) [3.5](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-03/exercise-3-05.rkt) [3.6](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-03/exercise-3-06.rkt) [3.7](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-03/exercise-3-07.rkt) [3.8](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-03/exercise-3-08.rkt) 3.9
 
 3.10 3.11 [3.12](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-03/exercise-3-12.rkt) 3.13 [3.14](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-03/exercise-3-14.rkt) 3.15 [3.16](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-03/exercise-3-16.rkt) 3.17 [3.18](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-03/exercise-3-18.rkt) 3.19 
 
@@ -53,7 +64,11 @@
 
 [3.80](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-03/exercise-3-80.rkt) [3.81](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-03/exercise-3-81.rkt) [3.82](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-03/exercise-3-82.rkt)
 
----**Chapter 4**4.1 4.2 [4.3](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-04/exercise-4-03.rkt) [4.4](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-04/exercise-4-04.rkt) 4.5 [4.6](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-04/exercise-4-06.rkt) [4.7](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-04/exercise-4-07.rkt) [4.8](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-04/exercise-4-08.rkt) 4.9
+---
+
+**Chapter 4**
+
+4.1 4.2 [4.3](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-04/exercise-4-03.rkt) [4.4](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-04/exercise-4-04.rkt) 4.5 [4.6](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-04/exercise-4-06.rkt) [4.7](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-04/exercise-4-07.rkt) [4.8](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-04/exercise-4-08.rkt) 4.9
 
 4.10 4.11 4.12 4.13 4.14 4.15 4.16 4.17 4.18 4.19 
 
@@ -67,7 +82,15 @@
 
 4.60 4.61 4.62 4.63 4.64 4.65 4.66 4.67 4.68 4.69 
 
-4.70 4.71 4.72 4.73 4.74 4.75 4.76 4.77 4.78 4.79[evaluator](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-04/evaluator.rkt) [new-evaluator](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-04/new-evaluator.rkt) [lazy-evaluator](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-04/lazy-evaluator.rkt)---**Chapter 5**5.1 5.2 5.3 5.4 5.5 5.6 5.7 5.8 5.9
+4.70 4.71 4.72 4.73 4.74 4.75 4.76 4.77 4.78 4.79
+
+[evaluator](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-04/evaluator.rkt) [new-evaluator](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-04/new-evaluator.rkt) [lazy-evaluator](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-04/lazy-evaluator.rkt)
+
+---
+
+**Chapter 5**
+
+5.1 5.2 5.3 5.4 5.5 5.6 5.7 5.8 5.9
 
 5.10 5.11 5.12 5.13 5.14 5.15 5.16 5.17 5.18 5.19 
 
