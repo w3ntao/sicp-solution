@@ -1,5 +1,5 @@
 
-Racket solution to exercise from [Structure and Interpretation of Computer Programs - 2nd Edition](http://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871/ref=sr_1_1?ie=UTF8&qid=1457442438&sr=8-1&keywords=sicp).
+Racket solution to exercise from [Structure and Interpretation of Computer Programs - 2nd Edition](https://www.mitpress.mit.edu/sicp/).
 
 ###Chapter 1
 1.1 1.2 [1.3](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-01/exercise-1-03.rkt) 1.4 1.5 [1.6](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-01/exercise-1-06.rkt) [1.7](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-01/exercise-1-07.rkt) [1.8](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-01/exercise-1-08.rkt) 1.9
