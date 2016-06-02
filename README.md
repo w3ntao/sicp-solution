@@ -85,26 +85,20 @@ Racket solution to exercise from [Structure and Interpretation of Computer Progr
 5.50 5.51 5.52
 
 ###ToolBox
-/AbstractionOfData
-
+####AbstractionOfData
 [huffmanTree](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/ToolBox/AbstractionOfData/huffmanTree.rkt) [list](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/ToolBox/AbstractionOfData/list.rkt) [queue](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/ToolBox/AbstractionOfData/queue.rkt) [set](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/ToolBox/AbstractionOfData/set.rkt) [stream](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/ToolBox/AbstractionOfData/stream.rkt) [table](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/ToolBox/AbstractionOfData/table.rkt) [tree](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/ToolBox/AbstractionOfData/tree.rkt)
 
-/ConstraintSystem
-
+####ConstraintSystem
 [connector](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/ToolBox/ConstraintSystem/connector.rkt) [constraint](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/ToolBox/ConstraintSystem/constraint.rkt)
 
-/CoordinateSystem
-
+####CoordinateSystem
 [frame](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/ToolBox/CoordinateSystem/frame.rkt) [segment](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/ToolBox/CoordinateSystem/segment.rkt) [vector](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/ToolBox/CoordinateSystem/vector.rkt)
 
-/IntegratedCircuit
-
+####IntegratedCircuit
 [agenda](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/ToolBox/IntegratedCircuit/agenda.rkt) [circuit](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/ToolBox/IntegratedCircuit/circuit.rkt) [gate](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/ToolBox/IntegratedCircuit/gate.rkt) [wire](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/ToolBox/IntegratedCircuit/wire.rkt)
 
-/LogicProgramming
-
+####LogicProgramming
 [logicPuzzle](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/ToolBox/LogicProgramming/logicPuzzle.rkt)
 
-/Math
-
+####Math
 [prime](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/ToolBox/Math/prime.rkt)
