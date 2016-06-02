@@ -4,7 +4,7 @@ Racket solution to exercise from [Structure and Interpretation of Computer Progr
 ###Chapter 1
 1.1 1.2 [1.3](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-1/exercise-1-03.rkt) 1.4 1.5 [1.6](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-1/exercise-1-06.rkt) [1.7](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-1/exercise-1-07.rkt) [1.8](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-1/exercise-1-08.rkt) 1.9
 
-1.10 1.11 1.12 1.13 1.14 1.15 1.16 1.17 1.18 [1.19](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-1/exercise-1-19.rkt)
+1.10 1.11 1.12 1.13 1.14 1.15 [1.16]((https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-1/exercise-1-16.rkt)) 1.17 1.18 [1.19](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-1/exercise-1-19.rkt)
 
 1.20 1.21 [1.22](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-1/exercise-1-22.rkt) 1.23 1.24 1.25 1.26 [1.27](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-1/exercise-1-27.rkt) 1.28 1.29
 
