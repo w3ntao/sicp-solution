@@ -2,7 +2,7 @@
 Racket solution to exercise from [Structure and Interpretation of Computer Programs - 2nd Edition](https://www.mitpress.mit.edu/sicp/).
 
 ###Chapter 1
-1.1 1.2 [1.3](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-1/exercise-1-03.rkt) 1.4 1.5 [1.6](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-1/exercise-1-06.rkt) [1.7](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-1/exercise-1-07.rkt) [1.8](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-1/exercise-1-08.rkt) 1.9
+[1.1](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-1/exercise-1-01.rkt) 1.2 [1.3](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-1/exercise-1-03.rkt) 1.4 1.5 [1.6](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-1/exercise-1-06.rkt) [1.7](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-1/exercise-1-07.rkt) [1.8](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-1/exercise-1-08.rkt) 1.9
 
 1.10 [1.11](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-1/exercise-1-11.rkt) 1.12 1.13 1.14 1.15 [1.16](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-1/exercise-1-16.rkt) [1.17](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-1/exercise-1-17.rkt) [1.18](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-1/exercise-1-18.rkt) [1.19](https://github.com/xRahn/SICP-solution-in-Racket/blob/master/chap-1/exercise-1-19.rkt)
 
